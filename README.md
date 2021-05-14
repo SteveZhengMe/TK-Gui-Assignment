@@ -10,15 +10,15 @@
 
 ### Window 1: Activities Summary
 
-![Summary-Activities](Summary-activities.png)
+![Summary-Activities](docs/Summary-activities.png)
 
 ### Window 2: Summaries in Summary
 
-![Summary-Summary](Summary-summary.png)
+![Summary-Summary](docs/Summary-summary.png)
 
 ### Window 3: Activities Entry
 
-![Activities Entry](Activity_Entry.png)
+![Activities Entry](docs/Activity_Entry.png)
 
 ## Source Code
 
