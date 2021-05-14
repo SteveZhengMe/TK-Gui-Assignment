@@ -14,7 +14,7 @@
 
 ### Window 2: Summaries in Summary
 
-![Summary-Summary](Summary-Summary.png)
+![Summary-Summary](Summary-summary.png)
 
 ### Window 3: Activities Entry
 
